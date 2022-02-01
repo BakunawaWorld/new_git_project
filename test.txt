@@ -4,4 +4,7 @@ pppp
 
 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
 BakunawaWorld
-git remote add origin https://BakunawaWorld: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n@github.com/BakunawaWorld/repo.git
+git remote add origin https://BakunawaWorld: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@github.com/BakunawaWorld/new_git_project.git
+git remote set-url origin https://github.com/BakunawaWorld/new_git_project.git
+
+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
